@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi there 👋
+Software developer — I mainly do web development.
 
 <!--
 **van14U/van14U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
